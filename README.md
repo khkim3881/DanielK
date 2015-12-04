@@ -2,3 +2,4 @@
 based embedded linux, open source project
 
 #hello
+Hello. this is kim speaking.
